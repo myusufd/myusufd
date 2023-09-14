@@ -1,10 +1,5 @@
 ###  Merhaba BEN YUSUF 👋
-  ![image](https://github.com/pasqualerossi/pasqualerossi/assets/58959408/594bb2d6-bb90-42fa-a24a-f97ed66289c7)
-
-  </details>
-
-<br>
-
+ 
 <!--
 **myusufd/myusufd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
