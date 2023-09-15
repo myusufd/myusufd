@@ -9,4 +9,4 @@
 ## Languages
 ![Langs](https://skillicons.dev/icons?i=html,css,js,ts,php,c,cs,cpp,dart,flutter,py,")
 ## Technologies
-![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,nodejs,mysql,sqlite,mongodb,bots,wordpress,cloudflare,ps,ai,figma,xd,")
+![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,nodejs,mysql,sqlite,mongodb,bots,wordpress,cloudflare,ps,ai,figma,")
