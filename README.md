@@ -7,6 +7,6 @@
 ![myusufd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myusufd&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
 
 ## Languages
-![Langs](https://skillicons.dev/icons?i=html,css,js,ts,php,c,cs,cpp,dart,flutter,py,")
+![Langs](https://skillicons.dev/icons?i=html,css,js,ts,php,c,cs,py,")
 ## Technologies
-![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,nodejs,mysql,sqlite,mongodb,bots,wordpress,cloudflare,ps,ai,figma,")
+![Techs](https://skillicons.dev/icons?i=vscode,git,vim,bash,wordpress,")
